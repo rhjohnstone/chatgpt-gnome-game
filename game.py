@@ -55,12 +55,3 @@ while running:
     pygame.display.update()
 # Quit pygame
 pygame.quit()
-
-
-
-
-
-
-
-
-
